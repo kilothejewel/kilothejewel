@@ -8,7 +8,7 @@ I'm a developer based in South Africa who believes the best code solves real pro
 
 ```python
 current_focus = {
-    "languages": ["Python", "Java", "Javascript", "HTML & CSS"],
+    "languages": ["Python", "Java", "JavaScript", "HTML & CSS", "C#"],
     "goal": "Building solutions that make everyday life easier",
     "status": "Always learning, always building"
 }
@@ -21,6 +21,7 @@ I'm passionate about **engineering projects that create meaningful impact**. Whe
 ## 🔧 Currently Exploring
 
 - Deepening my Python and Java skills for engineering applications
+- Learning as much as possible on AI Engineering
 - Looking for opportunities to collaborate on projects that matter
 - Open to contributing to open-source initiatives with real-world impact
 
